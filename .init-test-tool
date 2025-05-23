@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/daily-journal-keeper-journal-management-container-10528-10533/journal_entry_component"
+}
